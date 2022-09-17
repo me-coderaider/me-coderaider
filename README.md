@@ -6,7 +6,7 @@ I'm a new software developer staying in India. </br>
 
 As I have just started on this journey, there is so much to learn and having one quote to keep myself grounded. </br>
 
-> You'll never know what's around the corner. So, be ready for everything...
+> You'll never know what's around the corner. So, be ready for anything...
 
 </br>
 
