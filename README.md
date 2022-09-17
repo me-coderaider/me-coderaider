@@ -13,7 +13,6 @@ As I have just started on this journey, there is so much to learn and having one
 #### NOW
 - :Focusing on DSA.
 - :Development: Building projects in MERN Stack to learn FULL STACK Development you can check my work here at github
-- :
 
 </br>
 
