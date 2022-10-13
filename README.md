@@ -24,6 +24,6 @@ As I have just started on this journey, there is so much to learn and having one
 ---
 </br>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/code__raider?ext=heatmap)](https://leetcode.com/code__raider)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/code__raider?ext=heatmap?theme=light)](https://leetcode.com/code__raider)
 
 </br>
